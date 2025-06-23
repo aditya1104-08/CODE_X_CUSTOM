@@ -1,0 +1,50 @@
+body{
+       background-color: azure;
+       background-image: url(507dbf58-f620-4fa7-bec3-797e83a5f5a0.png);
+       background-size: cover;
+       color:#444;
+       
+}
+
+
+
+.navbar {
+  background-color: transparent !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: white !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #198751 !important; 
+}
+
+.navbar .dropdown-menu {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: #444;
+  color: #ffcc00;
+}
+
+.navbar {
+  background-color: none !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #fff !important;
+}
+
+
+
+
+
